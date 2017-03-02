@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Visual Studio China
 tagline: Welcome to Visual Studio China!
 description: GitHub Pages for Visual Studio China
