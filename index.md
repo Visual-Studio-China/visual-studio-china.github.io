@@ -1,3 +1,10 @@
+---
+layout: page
+title: Visual Studio China
+tagline: Welcome to Visual Studio China!
+description: GitHub Pages for Visual Studio China
+---
+
 ## Welcome to Visual Studio China
 
 You can use the [editor on GitHub](https://github.com/Visual-Studio-China/visual-studio-china.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
