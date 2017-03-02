@@ -1,14 +1,11 @@
----
-title: Visual Studio China
-tagline: Welcome to Visual Studio China!
-description: GitHub Pages for Visual Studio China
----
-
 ## Welcome to Visual Studio China
 
 You can use the [editor on GitHub](https://github.com/Visual-Studio-China/visual-studio-china.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Azure IoT
+Go to [https://aka.ms/azure.iot](https://aka.ms/azure.iot) for awesome Azure IoT resources
 
 ### Markdown
 
